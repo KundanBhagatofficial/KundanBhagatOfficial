@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 Hey, I’m Kundan  
+**Python Developer** | Building Tools, Dashboards & Automations
 
-<!--
-**KundanBhagatofficial/KundanBhagatOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **I’m currently working on:**  
+- CRM system  
+- Personal Dashboard App  
+- Productivity Tracker  
+- Algorithm Visualizer
 
-Here are some ideas to get you started:
+🌱 **I’m currently learning:**  
+- Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 **I’m looking to collaborate on:**  
+Projects involving full-stack development, automation tools, intuitive dashboards, and open-source utilities that solve real-world problems.
+
+🤔 **I’m looking for help with:**  
+Scaling web apps, system design feedback, and guidance on production deployments.
+
+💬 **Ask me about:**  
+Python, REST APIs, building dashboards, automations, Git/GitHub workflows, and clean backend design.
+
+📫 **How to reach me:**  
+- 🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: your.email@example.com
+
+😄 **Pronouns:**  
+He / Him
+
+⚡ **Fun fact:**  
+I’m a visionary who turns ideas into practical tools!
+
