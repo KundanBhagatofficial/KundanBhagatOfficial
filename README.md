@@ -1,5 +1,9 @@
 ### 👋 Hey, I’m Kundan  
 **Python Developer** | Building Tools, Dashboards & Automations
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
 
 🔭 **I’m currently working on:**  
 - CRM system  
@@ -23,8 +27,9 @@ Python, REST APIs, building dashboards, automations, Git/GitHub workflows, and c
 - 🔗 LinkedIn: [https://linkedin.com/profile](https://www.linkedin.com/in/kundan-bhagat-41010093/)  
 - 📧 Email: kundanbhagatofficial@outlook.com
 
-😄 **Pronouns:**  
-He / Him
+😄 **Portfolio:**  
+👉 [![View Live](https://img.shields.io/badge/🌐-Live%20Demo-blue?logo=vercel&logoColor=white)](https://fap-sooty.vercel.app/)
+
 
 ⚡ **Fun fact:**  
 I’m a visionary who turns ideas into practical tools!
