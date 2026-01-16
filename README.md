@@ -20,7 +20,7 @@ Scaling web apps, system design feedback, and guidance on production deployments
 Python, REST APIs, building dashboards, automations, Git/GitHub workflows, and clean backend design.
 
 📫 **How to reach me:**  
-- 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kundan-bhagat-41010093/)  
+- 🔗 LinkedIn: [https://linkedin.com/profile](https://www.linkedin.com/in/kundan-bhagat-41010093/)  
 - 📧 Email: kundanbhagatofficial@outlook.com
 
 😄 **Pronouns:**  
