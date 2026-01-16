@@ -4,7 +4,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
-
 🔭 **I’m currently working on:**  
 - CRM system  
 - Personal Dashboard App  
